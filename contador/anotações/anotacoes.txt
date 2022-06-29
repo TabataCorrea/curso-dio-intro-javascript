@@ -1,0 +1,12 @@
+Anotações 
+
+// são utilizadas para adicionar comentários em uma linha no vs code
+/* */ é possível adicionar comentários em mais de uma linha. Os comentários são finalizados somente quando a tag é fechada.
+
+Uma const (constante) em Javascript é declarada em letra Maiúscula, é uma boa prática!
+
+É necessário que o nome de uma var (variável) seja compatível com a proposta para qual ela foi criada.
+
+Index é um primeiro lugar onde se tem acesso a diferentes páginas. O arquivo html geralmente fica na raiz do projeto, separado dos demais arquivos.
+
+A pasta assets é colocado todos os componentes do html
