@@ -3,14 +3,14 @@
 ## Índice:
 - [Contador](contador/contador.html)
 ### Resultado:
-![contador-git](https://user-images.githubusercontent.com/96606916/176474329-2a4a915a-345b-4abb-991e-52d46b905d32.png)
+![contador-gif](https://user-images.githubusercontent.com/96606916/177910719-cd10b443-3348-455e-8bcf-61834bb01aeb.gif)
+
 
 
 
 - [Lista de tarefas](to-do%20list/index.html)
 ### Resultado:
-![to-do-list-git](https://user-images.githubusercontent.com/96606916/176474558-64c00178-e5c5-4953-aa73-1d1861854777.png)
-
+![todolist-gif](https://user-images.githubusercontent.com/96606916/177910710-3a6d23e4-23fb-45b0-b87e-044f25286e21.gif)
 
 
 <h1 align=center>🚀Tecnologias</h1>
